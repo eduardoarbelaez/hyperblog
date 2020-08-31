@@ -7,6 +7,7 @@ Un blog increible para el curso de platzi
 * Comandos
 * Amor por la programación
 * Creado por el increible CrazyEdu
+* incluye unity
 
 Y como recordatorio **Este readme es un chiste**.
 curso github [http://www.google.com](http://www.google.com)
